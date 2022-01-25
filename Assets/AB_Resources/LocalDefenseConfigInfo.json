@@ -1,0 +1,40 @@
+﻿{
+  "ConfigInfo": [
+
+    {
+      "Key": "DefenseA",
+      "Value": "gameprefabs/DefenseA.prefab"
+    },
+
+    {
+      "Key": "DefenseB",
+      "Value": "gameprefabs/DefenseB.prefab"
+    },
+
+    {
+      "Key": "DefenseC",
+      "Value": "gameprefabs/DefenseC.prefab"
+    },
+
+    {
+      "Key": "A_Enemy1",
+      "Value": "gameprefabs/A_Enemy1.prefab"
+    },
+    {
+      "Key": "A_Enemy2",
+      "Value": "gameprefabs/A_Enemy2.prefab"
+    },
+    {
+      "Key": "Hp",
+      "Value": "gameprefabs/Hp.prefab"
+    },
+    {
+      "Key": "DeABullet",
+      "Value": "gameprefabs/DeABullet.prefab"
+    },
+    {
+      "Key": "DeBBullet",
+      "Value": "gameprefabs/DeBBullet.prefab"
+    }
+  ]
+}

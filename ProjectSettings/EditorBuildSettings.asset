@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Start.unity
+    guid: 8c7eecf6bf97e7f4c899653384c4063c
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/GameHall.unity
+    guid: 5e9f18bcc4c404545a56ac498513b696
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Level_One.unity
+    guid: 387a68334d047714e98f7c53d8994531
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Level_Two.unity
+    guid: 92a5aad081220aa408cf4d8001b03682
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Level_Three.unity
+    guid: c1a4de21bf9652e4a8f8b23ec3a78afb
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Level_Crazy.unity
+    guid: 39dca1b9c5fe2464c8e093d3a22a7831
+  - enabled: 1
+    path: Assets/AB_Resources/Sences/Level_NoEnd.unity
+    guid: 17e67db2f9859cf44a2450c05ebb62ce
+  m_configObjects: {}

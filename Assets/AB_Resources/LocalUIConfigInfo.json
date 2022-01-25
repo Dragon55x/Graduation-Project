@@ -1,0 +1,95 @@
+﻿{
+"ConfigInfo":
+[
+    {
+        "Key": "RootUIForm",
+        "Value": "UIPrefabs/Canvas.prefab"
+    },
+
+    {
+        "Key": "LogonUIForm",
+        "Value": "UIPrefabs/LogonUIForm.prefab"
+    },
+
+    {
+        "Key": "StoryUIForm",
+        "Value": "UIPrefabs/StoryUIForm.prefab"
+    },
+
+    {
+        "Key": "MainCityUIForm",
+        "Value": "UIPrefabs/MainCityUIForm.prefab"
+    },
+
+    {
+        "Key": "HeroInfoUIForm",
+        "Value": "UIPrefabs/HeroInfoUIForm.prefab"
+    },
+
+    {
+        "Key": "MarketUIFrom",
+        "Value": "UIPrefabs/MarketUIFrom.prefab"
+    },
+
+    {
+        "Key": "PropDetailUIForm",
+        "Value": "UIPrefabs/PropDetailUIForm.prefab"
+    },
+
+    {
+        "Key": "NotificationUIForm",
+        "Value": "UIPrefabs/NotificationUIForm.prefab"
+    },
+
+    {
+        "Key": "GameInfoUIForm",
+        "Value": "UIPrefabs/GameInfoUIForm.prefab"
+    },
+
+    {
+        "Key": "DefenseListUIForm",
+        "Value": "UIPrefabs/DefenseListUIForm.prefab"
+    },
+
+    {
+        "Key": "ResUIForm",
+        "Value": "UIPrefabs/ResUIForm.prefab"
+    },
+
+    {
+        "Key": "LoginFailUIForm",
+        "Value": "UIPrefabs/LoginFailUIForm.prefab"
+    },
+
+    {
+        "Key": "CommuUIForm",
+        "Value": "UIPrefabs/CommuUIForm.prefab"
+    },
+
+    {
+        "Key": "LevelsUIForm",
+        "Value": "UIPrefabs/LevelsUIForm.prefab"
+    },
+
+    {
+        "Key": "VictoryUIForm",
+        "Value": "UIPrefabs/VictoryUIForm.prefab"
+    },
+
+    {
+        "Key": "DefeatUIForm",
+        "Value": "UIPrefabs/DefeatUIForm.prefab"
+    },
+
+  {
+    "Key": "LoadUIForm",
+    "Value": "UIPrefabs/LoadUIForm.prefab"
+  },
+
+
+  {
+    "Key": "CountdownUIForm",
+    "Value": "UIPrefabs/CountdownUIForm.prefab"
+  }
+]
+}
